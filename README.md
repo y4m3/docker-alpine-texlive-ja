@@ -1,8 +1,5 @@
 # y4m3/alpine-texlive-ja
 
-[![Docker Automated build](https://img.shields.io/docker/automated/y4m3/alpine-texlive-ja.svg)](https://hub.docker.com/r/y4m3/alpine-texlive-ja/)
-[![Docker Image Size](https://images.microbadger.com/badges/image/y4m3/alpine-texlive-ja.svg)](https://microbadger.com/images/y4m3/alpine-texlive-ja "Get your own image badge on microbadger.com")
-
 > Minimal TeX Live image for Japanese based on alpine with Noto Sans/Serif CJK.
 
 Forked from [Paperist/docker-alpine-texlive-ja] \(under the MIT License\).
